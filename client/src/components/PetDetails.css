@@ -1,0 +1,45 @@
+.adoptbtn {
+    background-color: red;
+}
+
+.subnav {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin-bottom: 50px;
+}
+
+.card {
+    font-size: 2.0em;
+    margin: auto;
+    padding: 20px;
+    border: 3px solid black;
+    width: 800px;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+span {
+    margin-left: 50px;
+    font-size: .8em;
+}
+
+.likebtn {
+    background-color: rgb(15, 172, 15);
+    width: 250px;
+    margin-left: 80px;
+    font-size: .8em;
+}
+
+.count {
+    width: 400px;
+}
+
+.likes {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
